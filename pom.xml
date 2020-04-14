@@ -6,9 +6,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>../scheduling</module>
+        <module>../spring-boot-starter-scheduling</module>
     </modules>
 
-    <groupId>org.example</groupId>
+    <groupId>io.github.xuanyangyang</groupId>
     <artifactId>parent</artifactId>
     <version>0.0.1</version>
     <name>parent</name>
